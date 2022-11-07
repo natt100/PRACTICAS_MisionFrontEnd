@@ -19,8 +19,8 @@ Logo y los mensajes que daremos desde la marca
 ![logo](https://user-images.githubusercontent.com/114167648/200317117-9baf064d-12fe-4c9b-bf45-e316ffc6a368.png)
 
 ## Maquetación de páginas de cliente de la pastelería
-[html](https://github.com/natt100/PRACTICAS_MisionFrontEnd/blob/7808d44d2fdb4a9ed2bb753d26b7de0b0bd02fc2/2%20-%20HTML/donut_elpimpollo.html)
+HTML: [donut_elpimpollo.html](https://github.com/natt100/PRACTICAS_MisionFrontEnd/blob/7808d44d2fdb4a9ed2bb753d26b7de0b0bd02fc2/2%20-%20HTML/donut_elpimpollo.html)
 
-![cliente](https://user-images.githubusercontent.com/114167648/200317131-069a928b-8fe8-47ba-91fb-93683ffe78b7.png)
+![website](https://user-images.githubusercontent.com/114167648/200338790-63b76f4f-b178-4e41-bc7e-46fdb0979d65.png)
 
 ## Maquetación de páginas del pastelero
