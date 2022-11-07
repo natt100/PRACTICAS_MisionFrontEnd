@@ -11,8 +11,9 @@
 * La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 ## 1. Toma de requerimientos
-pdf: [01 - INTRO/1_Requerimientos.pdf](https://github.com/natt100/PRACTICAS_MisionFrontEnd/blob/1ac233aaff014f52068c999a0dfb48412e4ef34d/01%20-%20INTRO/1_Requerimientos.pdf)
-Diagrama de flujo: 
+* pdf: [01 - INTRO/1_Requerimientos.pdf](https://github.com/natt100/PRACTICAS_MisionFrontEnd/blob/1ac233aaff014f52068c999a0dfb48412e4ef34d/01%20-%20INTRO/1_Requerimientos.pdf)
+
+* Diagrama de flujo: 
 ![diagrama_de_flujo](https://user-images.githubusercontent.com/114167648/200208222-e590ad81-2235-403d-9f90-401c5961f8e0.jpeg)
 
 ## 1.1. Buyer Persona
