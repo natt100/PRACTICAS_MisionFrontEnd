@@ -15,6 +15,7 @@
 
 ## Crear marca de la pastelería
 Logo y los mensajes que daremos desde la marca
+
 ![logo](https://user-images.githubusercontent.com/114167648/200317117-9baf064d-12fe-4c9b-bf45-e316ffc6a368.png)
 
 ## Maquetación de páginas de cliente de la pastelería
