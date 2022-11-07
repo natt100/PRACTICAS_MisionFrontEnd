@@ -24,5 +24,6 @@
 ![Target Audience](https://user-images.githubusercontent.com/114167648/200210736-ca1016fe-10e3-443d-88b2-5d4f24f295dc.jpg)
 
 ## 2. Primer Wireframe UX
+![New Wireframe 1](https://user-images.githubusercontent.com/114167648/200350729-90202b46-3256-46c2-abaf-f4aedd214f06.png)
 
 ## 5. UI Abogabot
