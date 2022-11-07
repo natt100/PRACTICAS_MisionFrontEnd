@@ -3,4 +3,9 @@
 Página de vacunación y en estos momentos que se está poniendo la tercer dosis en varios estados de la república y que en algunos otros se está poniendo la segunda o incluso la primera sigue siendo muy importante recordar toda esta información.
 
 ## Sitio web
-[Link del sitio web](file:///C:/Users/laure/OneDrive/Desktop/1-NATTY%F0%9F%8C%B8/LAUNCHX/practicas/03_css/index.html)
+CSS: [style.css]()
+
+HTML: [index.html](https://github.com/natt100/PRACTICAS_MisionFrontEnd/blob/4fda6bfee52eb41bcbeed5c26e00556d8a44d11e/3%20-%20CSS/index.html)
+
+Resultado final:
+![website](https://user-images.githubusercontent.com/114167648/200336104-6316e95e-668d-4a6f-87e3-aaf8d987a268.png)
