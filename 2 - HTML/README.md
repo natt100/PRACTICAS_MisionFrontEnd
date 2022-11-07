@@ -23,5 +23,3 @@ HTML: [donut_elpimpollo.html](https://github.com/natt100/PRACTICAS_MisionFrontEn
 
 Resultado final:
 ![website](https://user-images.githubusercontent.com/114167648/200338790-63b76f4f-b178-4e41-bc7e-46fdb0979d65.png)
-
-## Maquetación de páginas del pastelero
